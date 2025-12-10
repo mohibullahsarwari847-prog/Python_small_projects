@@ -1,0 +1,5 @@
+fruits = ["مڼه", "کیله", "انګور", "ناشپاتي"]
+fruits.remove("کیله")
+print(fruits)
+del fruits[0]
+print(fruits)
